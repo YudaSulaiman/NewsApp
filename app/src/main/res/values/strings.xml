@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="category">Category</string>
+    <string name="title">title</string>
+    <string name="published_date">date</string>
+    <string name="save_bookmark">bookark</string>
+    <string name="fab_bookmark">Bookmark</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="profile">Profile</string>
+    <string name="name">Muhammad Yuda Sulaiman</string>
+    <string name="github_username">YudaSulaiman</string>
+    <string name="github_link_button">My Github</string>
+    <string name="news_title">News Title</string>
+    <string name="description">description</string>
+    <string name="news_link">Baca Disini</string>
+    <string name="detail">News Detail</string>
+
+    <string-array name="category">
+        <item>business</item>
+        <item>entertainment</item>
+        <item>general</item>
+        <item>health</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>technology</item>
+    </string-array>
+</resources>
